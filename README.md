@@ -1,6 +1,6 @@
 # 🍽️ Restaurant Website
 
-A simple and attractive **Restaurant Website** built using **HTML and CSS**.  
+A simple and attractive **Restaurant Website** built using **HTML, CSS** and JavaScript**.  
 This project provides basic information about the restaurant such as the menu, location, and contact details.  
 
 ---
@@ -17,7 +17,8 @@ This project provides basic information about the restaurant such as the menu, l
 
 ## 🛠️ Technologies Used
 - HTML5  
-- CSS3  
+- CSS3
+- JavaScript
 
 ---
 
