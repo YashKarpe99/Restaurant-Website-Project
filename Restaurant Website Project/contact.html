@@ -51,19 +51,20 @@
         </div>
         <div class="contact_data">
           <h2>Contact Me</h2>
-          <form action="#">
+          <form id="contactForm">
             <label for="">Name</label>
-            <input type="text" />
+            <input type="text" name="name" required/>
             <label for="">Email</label>
-            <input type="email" />
+            <input type="email" name="email"/>
             <label for="">Subject</label>
-            <input type="text" />
+            <input type="text" name="subject"/>
             <label for="">Message</label>
-            <textarea name="" id="" cols="30" rows="05"></textarea>
-            <button>Send Message</button>
+            <textarea name="message" id="" cols="30" rows="05"></textarea>
+            <button type="submit">Send Message</button>
           </form>
         </div>
       </div>
     
 </body>
+<script src="contact.js"></script>
 </html>
